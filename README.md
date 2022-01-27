@@ -2,10 +2,9 @@
 
 ``````````
 const getInfo = async () => {
-  const response = await fetch(
-    "https://sofcnodejsapi.herokuapp.com/personagens/"
-  );
-  return response.json();
+    const response = await fetch( "https://sofcnodejsapi.herokuapp.com/personagens/"
+      );
+      return response.json();
 };
 
 getInfo().then((data) => {
