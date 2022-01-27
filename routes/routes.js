@@ -7,7 +7,7 @@ const mundo = require("../data/mundo.json");
 
 routes.get("/", (req, res) => {
   res.send(`
-    Olá, Bem-vindo(a) a Shadow of the Colossos API
+    <h1>Olá, Bem-vindo(a) a Shadow of the Colossos API</h1>
     <br> 
     https://sofcnodejsapi.herokuapp.com/personagens
     <br> 
