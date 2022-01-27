@@ -11,14 +11,14 @@ routes.get("/", (req, res) => {
 
     <div>
       <h2>Personagens</h2>
-        <a href="https://sofcnodejsapi.herokuapp.com/personagens">
+        <a target="_blank" href="https://sofcnodejsapi.herokuapp.com/personagens">
         https://sofcnodejsapi.herokuapp.com/personagens
         </a>
     </div>
 
     <div>
       <h2>Colossos</h2>
-      <a href="https://sofcnodejsapi.herokuapp.com/colossos/">
+      <a target="_blank" href="https://sofcnodejsapi.herokuapp.com/colossos/">
       https://sofcnodejsapi.herokuapp.com/colossos/
       </a>
       
@@ -26,14 +26,14 @@ routes.get("/", (req, res) => {
 
     <div>
       <h2>Mundo</h2>
-      <a href="https://sofcnodejsapi.herokuapp.com/mundo/">
+      <a target="_blank" href="https://sofcnodejsapi.herokuapp.com/mundo/">
       https://sofcnodejsapi.herokuapp.com/mundo/
       </a>
     </div>
 
     <div>
       <h3>Repositório</h3>
-      <a href="https://github.com/IsaqueSantosSilva/Shadow-of-the-Colossos-NodeJS-API">
+      <a target="_blank" href="https://github.com/IsaqueSantosSilva/Shadow-of-the-Colossos-NodeJS-API">
       https://github.com/IsaqueSantosSilva/Shadow-of-the-Colossos-NodeJS-API
       </a>
   `);
