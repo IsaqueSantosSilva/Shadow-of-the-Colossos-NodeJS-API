@@ -1,6 +1,6 @@
 ## Shadow of the Colossos Nodejs API
 
-``
+````````
 const getInfo = async () => {
     const response = await fetch( "https://sofcnodejsapi.herokuapp.com/personagens/"
     );
@@ -10,4 +10,4 @@ const getInfo = async () => {
 getInfo().then((data) => {
     console.log(data);
 });
-``
+````````
