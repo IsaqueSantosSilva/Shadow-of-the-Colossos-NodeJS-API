@@ -9,11 +9,11 @@ routes.get("/", (req, res) => {
   res.send(`
     Olá, Bem-vindo(a) a Shadow of the Colossos API
     <br> 
-    http://shadowofthecolossosnodejsapi.herokuapp.com/personagens/ 
+    https://sofcnodejsapi.herokuapp.com/personagens
     <br> 
-    http://shadowofthecolossosnodejsapi.herokuapp.com/colossos/ 
+    https://sofcnodejsapi.herokuapp.com/colossos/ 
     <br> 
-    http://shadowofthecolossosnodejsapi.herokuapp.com/mundo/
+    https://sofcnodejsapi.herokuapp.com/mundo/
   `);
 });
 
