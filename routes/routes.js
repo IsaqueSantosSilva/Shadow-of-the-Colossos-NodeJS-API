@@ -8,12 +8,21 @@ const mundo = require("../data/mundo.json");
 routes.get("/", (req, res) => {
   res.send(`
     <h1>Olá, Bem-vindo(a) a Shadow of the Colossos API</h1>
-    <br> 
-    https://sofcnodejsapi.herokuapp.com/personagens
-    <br> 
-    https://sofcnodejsapi.herokuapp.com/colossos/ 
-    <br> 
-    https://sofcnodejsapi.herokuapp.com/mundo/
+
+    <div>
+      <h2>Personagens</h2>
+      https://sofcnodejsapi.herokuapp.com/personagens
+    </div>
+
+    <div>
+      <h2>Colossos</h2>
+      https://sofcnodejsapi.herokuapp.com/colossos/ 
+    </div>
+    
+    <div>
+      <h2>Mundo</h2>
+      https://sofcnodejsapi.herokuapp.com/mundo/
+    </div>
   `);
 });
 
