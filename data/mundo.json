@@ -1,0 +1,19 @@
+{
+  "info": {
+    "quantidade": 1,
+    "paginas": 1
+  },
+  "results": [
+    {
+      "nome": "As Terras Proibidas",
+      "mapa": "https://i.ibb.co/VVnv69Y/Shadow-of-the-colossus-map-0.jpg",
+      "imagem1": "https://i.ibb.co/SmZzqyC/img1.jpg",
+      "imagem2": "https://i.ibb.co/sWBxxm6/img2.jpg",
+      "imagem3": "https://i.ibb.co/PchMh8s/img3.jpg",
+      "historia": {
+        "paragrafo1": "As Terras Proibidas (em japonês: 禁 断 の 地 kindan no ji; também 古 え の 地 inishie no ji, lit. 'terra dos tempos antigos') são uma vasta extensão de planícies abertas, passagens estreitas, grandes desertos e florestas densas. É o cenário para Shadow of the Colossus, e quase tudo está aberto para explorar logo no início do jogo. Os dezesseis colossos, as manifestações físicas dos dezesseis pedaços de Dormin, estão espalhados por toda parte; a Espada Antiga é usada como uma bússola em áreas iluminadas pelo sol para apontar o caminho para o próximo colosso.",
+        "paragrafo2": "O Santuário de Adoração fica no centro das Terras Proibidas. A única maneira de alcançá-lo - chegar até as Terras Proibidas - é por uma ponte longa e fina que se estende do Santuário até uma entrada adornada no topo dos penhascos ao norte. As Terras Proibidas têm muitos locais únicos e variados. Alguns são ásperos e ásperos, enquanto outros são exuberantes e bonitos. Certas áreas são o lar de colossos e podem ser difíceis de navegar. Lagos, rios, desertos, florestas, montanhas, planícies e as ruínas de uma antiga civilização são apenas alguns exemplos da paisagem."
+      }
+    }
+  ]
+}

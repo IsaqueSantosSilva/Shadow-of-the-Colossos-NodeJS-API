@@ -1,0 +1,166 @@
+{
+  "info": {
+    "quantidade": 16,
+    "paginas": 1
+  },
+  "results": [
+    {
+      "id": 1,
+      "nome": "Valus",
+      "localizacao": "Templo",
+      "altura": "22m",
+      "arquetipo": "Minotauro",
+      "caminho": "Segurando a espada fora do Santuário irá revelar um caminho diretamente para o sul, em direção aos penhascos já à vista. Os penhascos já abrigaram um templo; assim que o jogador subir alguns degraus da frente para a entrada, uma cutscene será reproduzida; essas cenas são mostradas para muitos dos primeiros colossos do jogo e dão uma dica de que Wander está indo na direção certa. À sua direita (a oeste), existem algumas vinhas crescendo na parede; escale-os e dê alguns pulos de pedras salientes para prosseguir. Mais tarde, informações aparecerão na parte inferior da tela ensinando como fazer uma esquiva rolante para passar por uma árvore caída que está bloqueando o caminho. A manobra é boa para evitar ataques (especialmente no Hard, onde um único golpe ou outro ataque pesado pode matar Wander instantaneamente). O jogador também aprenderá a pular de uma saliência na qual está pendurado no momento e para cima de outra. (Observe que esta seção inteira serve como um tutorial de escalada e um meio de separar Wander de Agro. Esta é uma ocorrência comum; dos dezesseis colossos, Agro só será capaz de chegar a cinco - veja o gráfico no colossi artigo para ver quais.) Depois que Wander saltou com sucesso para o pequeno caminho para o topo do penhasco, caminhe um pouco mais para o sul. Uma cena vai acontecer: as pequenas árvores na beira do penhasco tremem enquanto  dá um passo à frente vindo do oeste.",
+      "foto": "https://i.ibb.co/dgYp7Lx/Sem-t-tulo.png"
+    },
+    {
+      "id": 2,
+      "nome": "Quadratus",
+      "localizacao": "Proto",
+      "altura": "33m",
+      "arquetipo": "Quadrúpede lento",
+      "caminho": "Em termos de distância simples, o covil de Quadratus é o mais próximo do Santuário de Adoração; entretanto, chegar ao seu covil não é tão simples. Ao sair do Santuário, segurando a Espada Antiga revelará que o colosso está localizado ao norte. Contorne o lado oeste do santuário até encontrar um caminho claro ao norte. Haverá uma ponte de terra gigantesca à frente do jogador que eventualmente se bifurcará em duas direções. Segure a espada novamente para a resposta: pegue o garfo certo. Feito isso, uma cutscene vai tocar, indicando que Wander está perto. Siga o caminho até o fundo do canyon e siga para o noroeste até encontrar uma área suspeita nos penhascos.",
+      "foto": "https://i.ibb.co/4mnHbnQ/Sem-t-tulo.png"
+    },
+    {
+      "id": 3,
+      "nome": "Gaius",
+      "localizacao": "Arena",
+      "altura": "33m",
+      "arquetipo": "Humanóide",
+      "caminho": "Inicialmente, o caminho para Gaius é o mesmo que o caminho percorrido antes para Quadratus - contorne o Santuário de Adoração à direita até que seja apresentado um caminho para o norte, então prossiga pela ponte de terra. Desta vez, porém, vá para a esquerda quando o caminho se bifurcar; isso levará o jogador às planícies do norte. A espada irá direcionar Wander para o noroeste agora. Ele apontará aproximadamente para uma entrada de desfiladeiro; este é o lugar para onde ir. O caminho do cânion acabará levando às margens de um lago, e uma cutscene começará, enfatizando a ilha gigante no meio do lago e um caminho a percorrer para subir. Wander deve deixar Agro para trás aqui. Pule no lago e nade até o caminho no lado oeste da arena. Este caminho acabará eventualmente, e o jogador deve pular para uma saliência em um pilar adjacente. Agarre-se e vá para a direita. Aqui, Wander deve pular dessa saliência para chegar à arena, exatamente como foi necessário para alcançar o primeiro colosso. Embora a descida do lago seja muito longa, Wander não morrerá se a manobra for executada incorretamente, mas demora um pouco para voltar a nadar. Depois de ter saltado com sucesso, suba ao topo da arena para começar.",
+      "foto": "https://i.ibb.co/f9HzJgx/Sem-t-tulo.png"
+    },
+    {
+      "id": 4,
+      "nome": "Phaedra",
+      "localizacao": "Monte de Kirin",
+      "altura": "34.5m",
+      "arquetipo": "Quadrúpede lento",
+      "caminho": "Phaedra é um dos colossos mais fáceis de se chegar. Ao sair do templo, a luz da espada apontará aproximadamente a sudeste para uma abertura nas paredes do penhasco. O desfiladeiro acabará por levar a uma alcova verdejante. Siga o caminho do penhasco para baixo e segure a espada novamente ao sol para encontrar o caminho para o colosso pai a leste. Antes de chegar ao colosso, passarão por ruínas na grama: quatro passagens, interligadas no subsolo.",
+      "foto": "https://i.ibb.co/02PhHYR/Sem-t-tulo.png"
+    },
+    {
+      "id": 5,
+      "nome": "Avion",
+      "localizacao": "Canyon",
+      "comprimento": "48.3m",
+      "largura": "38.6m",
+      "arquetipo": "Voador",
+      "caminho": "Avion está diretamente a leste do santuário, como a espada indica. Basta seguir para o leste conforme o caminho ao lado do penhasco se torna estreito. Quando se alarga novamente, o covil do colosso está próximo. Se alguém se perder, encontre um ponto ensolarado próximo à borda do penhasco - a luz da espada irá direcionar o jogador para o lago. Há também um santuário seguro e uma árvore frutífera. É altamente recomendável comer a fruta e salvar o jogo porque este colosso pode atacar repentinamente e tirar um pouco de vida. Wander terá que deixar Agro para trás. O caminho para o leste no lago parece bloqueado, mas mergulhar debaixo d'água (o mesmo botão usado para agarrar; 'R1' por padrão) revelará um arco pelo qual Wander pode nadar. Do outro lado, haverá um pilar com saliências, então suba até o topo e caminhe em direção à varanda com vista para as ruínas.",
+      "foto": "https://i.ibb.co/yXqWTqs/Sem-t-tulo.png"
+    },
+    {
+      "id": 6,
+      "nome": "Barba",
+      "localizacao": "Canossa",
+      "altura": "29m",
+      "arquetipo": "Minotauro",
+      "caminho": "O caminho para esse colosso é facilmente o mais complicado e complexo até o momento. Existem várias maneiras de chegar lá, mas o caminho mais direto é pela Floresta de Outono. Encontrar a floresta é fácil o suficiente - a luz da espada irá direcionar o jogador do Santuário de Adoração - mas encontrar uma maneira de sair da floresta pode ser complicado. O canto noroeste da floresta é para onde ir; lá, há um caminho que conduz à luz do sol das Terras do Inferno. Consulte o vídeo se tiver problemas para localizar a saída. A espada irá direcionar o jogador para o sul agora. O templo onde Barba reside é além do santuário de salvamento das Terras do Inferno. Agro não pode seguir Wander até o templo, pois ele deve escalar vários obstáculos nos corredores em ruínas pelos quais ela não consegue passar. Prossiga para o salão principal do templo e uma cutscene será reproduzida. Encontre um caminho seguro para o chão agora. Vá direto para a borda do chão e olhe para a parede abaixo; Wander pode descer pelas cristas (o jogador também pode sobreviver pulando nessa altura, mas há uma perda considerável de saúde). Quando ele chega ao fundo, o chão treme e a parede desaparece no chão.",
+      "foto": "https://i.ibb.co/NY33S38/Sem-t-tulo.png"
+    },
+    {
+      "id": 7,
+      "nome": "Hydrus",
+      "localizacao": "Lakeside",
+      "comprimento": "96.6m",
+      "arquetipo": "Serpente",
+      "caminho": "Siga para o norte a partir do santuário através da ponte de terra. A partir daqui, existem duas maneiras de chegar ao lago. O caminho mais direto é prosseguir como se estivesse viajando para Gaius, mas continuar até a garganta do Arco de Pedra (quadrante D2) e, em seguida, siga para o norte até o lago. É fácil se perder dessa forma, entretanto, já que não há muitas oportunidades de obter ajuda da luz da espada nos desfiladeiros escuros. O caminho mais fácil, mas um pouco mais longo, é ir direto para o norte até o quadrante F1 e, em seguida, ir para o leste através do Pântano Seco (quadrante E1). A entrada do lago estará bem visível e a espada pode ser usada a qualquer momento. Há um caminho de pedra que conduz ao redor do meio do lago, onde haverá um pilar com uma passarela em espiral ao redor dele. O jogador pode usar esta passarela para chegar ao lago ou simplesmente mergulhar. De qualquer forma, Agro terá que observar de onde está.",
+      "foto": "https://i.ibb.co/KFMXdpM/Sem-t-tulo.png"
+    },
+    {
+      "id": 8,
+      "nome": "Kuromori",
+      "localizacao": "Underground",
+      "altura": "6m",
+      "comprimento": "19.3m",
+      "arquetipo": "Lagartixa",
+      "caminho": "A espada irá direcionar o jogador a sudeste para um desfiladeiro. Quando o caminho se ramificar, siga para a esquerda e procure uma entrada de caverna. Esta passagem leva a uma área dentro das falésias repleta de vegetação e cachoeiras. Tenha cuidado para não pular aqui e cair; Wander não sairá de uma das saliências, mas saltará. Siga para o leste daqui ao longo do caminho para encontrar um templo rodeado por um anel de água. Wander terá que se separar de Agro aqui. Dentro do templo, haverá um pilar estriado para subir para chegar ao outro lado da sala. O corredor além leva à arena.",
+      "foto": "https://i.ibb.co/TLnjFnS/Sem-t-tulo.png"
+    },
+    {
+      "id": 9,
+      "nome": "Basaran",
+      "localizacao": "Geyser",
+      "altura": "25m",
+      "comprimento": "58m",
+      "arquetipo": "Atirador de Pulso",
+      "caminho": "Siga para o norte a partir do Santuário de Adoração e pegue a ponte de terra oeste - a Espada Antiga irá direcionar o jogador de lá. Em breve, deve haver uma nuvem cinza gigante à distância, e é para lá que devemos ir. Um desfiladeiro pequeno, mas profundo, separa o jogador e o campo de gêiseres, então procure uma ponte de terra para atravessar. O ar no campo de gêiseres é muito nebuloso e escuro para a espada funcionar, então será necessário encontrar o colosso. Observe a localização dos gêiseres, pois eles são vitais para a batalha. Quando estiver pronto, vá para a caverna, que pode ser encontrada no extremo leste do campo.",
+      "foto": "https://i.ibb.co/vPNyWtx/Sem-t-tulo.png"
+    },
+    {
+      "id": 10,
+      "nome": "Dirge",
+      "localizacao": "Gravewind ",
+      "comprimento": "94m",
+      "arquetipo": "Serpente",
+      "caminho": "Dirge está diretamente a oeste do Santuário de Adoração. Atravesse a ponte de terra oeste no quadrante F4 e atravesse a Planície Ocidental, permanecendo perto dos penhascos. Use a espada quando o terreno ficar mais acidentado; o jogador deve terminar na extremidade norte da caverna de Dirge. Há um lugar para salvar aqui, se necessário (para iniciantes, é aconselhável, pois essa luta pode ser um desafio). Continue na caverna, seguindo os túneis a oeste. Há uma grande sala cheia de areia, e ao se aproximar da luz no meio da sala, a cutscene de Dirge vai tocar.",
+      "foto": "https://i.ibb.co/GCwm9sZ/Sem-t-tulo.png"
+    },
+    {
+      "id": 11,
+      "nome": "Celosia",
+      "localizacao": "Carverna de Leo",
+      "altura": "4m",
+      "comprimento": "7.5m",
+      "arquetipo": "Guardião",
+      "caminho": "O desfiladeiro onde Celosia mora fica na extremidade norte da enorme ponte. Siga para o norte a partir do Santuário de Adoração e siga a ponte para o norte até que o desfiladeiro seja alcançado. Para chegar ao fundo do desfiladeiro, pegue a encosta sinuosa na borda leste do desfiladeiro, pule no pequeno lago abaixo (certifique-se de apontar para um ponto profundo) ou use o Pano do Desespero no Pesado. Uma vez no fundo, vá para oeste através (ou ao redor) do lago raso. O templo a oeste é o destino; o jogador pode entrar por uma passagem lateral à direita. Depois de virar à esquerda e entrar no templo, suba algumas saliências à direita e pule pela abertura para começar a batalha. Tente pular o mais próximo possível de qualquer uma das paredes.",
+      "foto": "https://i.ibb.co/sgZ7JKF/Sem-t-tulo.png"
+    },
+    {
+      "id": 12,
+      "nome": "Pelagia",
+      "localizacao": "Rio de Poseidon",
+      "altura": "30m",
+      "comprimento": "32m",
+      "arquetipo": "Atirador de Pulso",
+      "caminho": "O covil de Pelagia fica a nordeste do santuário, então o jogador deve virar à esquerda ao sair. Segure a espada uma vez sob a luz do sol para ter uma ideia de para onde ir. Procure dois pilares de pedra nesta direção para encontrar uma ponte de terra. Atravesse-a e siga ao longo da encosta leste para encontrar outro conjunto de pilares, indicando outra ponte. Cruzar esta ponte, no entanto, colocará um no meio de uma floresta fechada. É fácil se perder aqui se o jogador não conhecer o caminho, mas felizmente o caminho é simples: assim que entrar na floresta, faça uma curva fechada à direita para encontrar a saída por perto. Uma vez do lado de fora, vire à esquerda para encontrar um caminho estreito que leva ao lago acima das Cataratas Nebulosas. Eventualmente, o jogador chegará ao que parece ser um beco sem saída, já que uma pedra gigante há muito se encaixou entre os penhascos e um pilar do outro lado do caminho. Este pilar, no entanto, tem uma saliência que o jogador pode atravessar, deixando Agro para trás. Não pule na água ainda, ou corre o risco de ser forçado às fortes correntes das cachoeiras superiores, e cair delas significa a morte. O jogador pode salvar no santuário de salvamento próximo. Pule da saliência do outro lado para encontrar outro caminho e siga este caminho até o fim, então pule no lago abaixo. Nade para o norte, passe os pilares e pise em uma das ruínas que pontilham o lago.",
+      "foto": "https://i.ibb.co/LPt6MZJ/Sem-t-tulo.png"
+    },
+    {
+      "id": 13,
+      "nome": "Phalanx",
+      "localizacao": "Deserto",
+      "largura": "70m",
+      "comprimento": "200m",
+      "arquetipo": "Serpente",
+      "caminho": "Phalanx está localizado em um grande deserto a sudoeste do Santuário de Adoração. Prossiga para o sul, passando pela montanha onde Valus morou até que as Planícies do Sul sejam alcançadas. Vire para oeste e continue até que o terreno se transforme em um deserto. Atravesse a plataforma para despertar Phalanx. Outra maneira é que o jogador pode prosseguir para o oeste e através da Floresta de Outono para chegar ao deserto mais rápido e mais perto da plataforma.",
+      "foto": "https://i.ibb.co/2ZSJCYk/Sem-t-tulo.png"
+    },
+    {
+      "id": 14,
+      "nome": "Cenobia",
+      "localizacao": "Ruínas",
+      "altura": "4m",
+      "comprimento": "7m",
+      "arquetipo": "Guadião",
+      "caminho": "A cidade antiga fica a noroeste do Santuário de Adoração e há algumas maneiras de chegar lá, mas a maneira mais rápida é através do desfiladeiro em D2. Cruze as pontes de terra do norte ou oeste no quadrante F4 e deixe a Espada Antiga apontar para o noroeste. Verifique o mapa uma vez nas passagens estreitas para ter certeza de que Wander está indo na direção certa. Uma vez na área noroeste das Terras Proibidas, fique atento a um caminho marcado por muitos conjuntos de pequenos pilares de cada lado. Esta é a entrada da cidade. Infelizmente, a passagem de conexão contém um corpo de água que Agro não consegue atravessar. Uma cutscene será reproduzida quando o jogador entrar na cidade pelo lado leste. O colosso fica no topo de um templo a sudoeste (mostrado no final da cena), mas reserve um tempo para explorar o ambiente primeiro, se for novo - a próxima batalha cobrirá quase todas as saliências, pontes, colunas e torres. Aproxime-se do templo do colosso na extremidade oeste da cidade para começar. Tal como acontece com Celosia, esteja pronto para correr para se proteger no segundo que a luta começar.",
+      "foto": "https://i.ibb.co/8NLrCD9/Sem-t-tulo.png"
+    },
+    {
+      "id": 15,
+      "nome": "Argus",
+      "localizacao": "Parthenon",
+      "altura": "27.6m",
+      "arquetipo": "Minotauro",
+      "caminho": "Chegar ao Argus pode ser complicado para os iniciantes; se eles seguirem a luz da espada diretamente, eles irão para o leste ao redor do santuário e serão conduzidos diretamente para a floresta que tomaram para chegar ao topo das cachoeiras onde Pelagia morou uma vez. A melhor maneira é ir para o oeste ao redor do santuário, pegar a ponte de terra do norte e seguir ao lado da ponte gigante como se fosse para Celosia. A partir daqui, a luz da espada será muito mais útil para levar o jogador à fortaleza. Vá para dentro das ruínas. Wander pode montar Agro lá dentro, mas um pilar gigante caído a impedirá de ir com ele. Suba e contorne o pilar, continue pelo corredor e suba as escadas para entrar na área principal da fortaleza. A área está inesperadamente vazia. A espada irá direcionar o jogador em direção ao vale na extremidade leste da arena, e conforme Wander se aproxima da borda, a terra treme e duas mãos enormes aparecem antes do colosso subir pela parede do penhasco.",
+      "foto": "https://i.ibb.co/BPB4MgS/Sem-t-tulo.png"
+    },
+    {
+      "id": 16,
+      "nome": "Malus",
+      "localizacao": "Santuário",
+      "altura": "66m",
+      "arquetipo": "Humanóide",
+      "caminho": {
+        "paragrafo1": "A luz da espada apontará para o sul, assim como fazia no início. O destino é muito mais ao sul, no entanto. Comece entrando na passagem do desfiladeiro a leste de onde a espada está apontando, como se fosse para Kuromori. Vire à direita quando o caminho se bifurcar e as planícies do sul forem encontradas. A espada apontará para uma cadeia de montanhas distante - especificamente, para uma porta selada no meio dos penhascos.",
+        "paragrafo2": "Esta porta só pode ser aberta iluminando todos os oito feixes de luz da espada no selo no meio da porta. Por razões óbvias, a porta não pode ser aberta até este ponto do jogo. Assim que abrir, prossiga, embora seja altamente recomendável visitar o santuário salvo um curto caminho no caminho.",
+        "paragrafo3": "Ao lado do santuário, há uma escada em caracol que leva a uma ponte. As paredes da mesa onde Malus espera estão logo à frente. No entanto, esta ponte é altamente instável e irá desabar rapidamente se Wander colocar os pés nela, fazendo-o despencar para a morte no profundo desfiladeiro abaixo. A velocidade de Agro é necessária para cruzar a ponte. Conduza-a escada acima, posicione-a o mais reto possível e ataque.",
+        "paragrafo4": "Uma cena será reproduzida se for feita corretamente: a ponte desmorona rapidamente atrás do par, e parece que eles vão conseguir atravessá-la, quando de repente a parte final da ponte cede mais cedo. Agro, percebendo que ela não pode fazer isso, afasta Wander dela para a segurança do outro lado, e Wander observa impotente enquanto seu único companheiro em toda a sua jornada cai no rio lá embaixo. Eventualmente, ele se levanta e olha para o topo do planalto, onde o vento está aumentando e as nuvens de tempestade já estão começando a se formar.",
+        "paragrafo5": "Comece a escalar as paredes onduladas. Manobre até as paredes de grama e suba, depois para o leste. Uma vez em terra firme novamente, encontre e entre no túnel que leva mais para cima.",
+        "paragrafo6": "A tempestade está agora em pleno andamento quando o jogador sai para uma varanda. A partir daqui, os quinze pilares de luz onde cada colosso ficava podem ser vistos, assim como o oponente final de Wander. Vá até o topo da mesa e escale qualquer um dos dois pilares nas laterais da varanda. Enquanto Wander lentamente emerge do desfiladeiro, uma visão completa do chefe final é alcançada."
+      },
+      "foto": "https://i.ibb.co/ZYzcHqy/Sem-t-tulo.png"
+    }
+  ]
+}
