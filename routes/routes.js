@@ -12,7 +12,7 @@ routes.get("/", (req, res) => {
     <div>
       <h2>Personagens</h2>
         <a target="_blank" href="https://sofcnodejsapi.herokuapp.com/personagens">
-        https://sofcnodejsapi.herokuapp.com/personagens
+        https://sofcnodejsapi.herokuapp.com/personagen
         </a>
     </div>
 
